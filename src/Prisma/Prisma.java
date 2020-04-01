@@ -1,5 +1,9 @@
 package Prisma;
 
+/**
+ * Clase Prisma con base y altura
+ * Contiene metodos para calcular el area de sus partes
+ */
 public class Prisma {
     private int baseTriangulo;
     private int alturaPrisma;
